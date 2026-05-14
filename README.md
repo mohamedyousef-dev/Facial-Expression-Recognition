@@ -18,6 +18,7 @@ This project focuses on identifying human emotions from facial expressions using
 
 ## 📊 Dataset
 The model was trained on the **FER2013** dataset (or mention your specific dataset), which contains thousands of labeled facial images.
+https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
 
 ## ⚙️ How to Run
 1. Clone the repository:
